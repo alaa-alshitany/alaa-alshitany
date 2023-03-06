@@ -1,7 +1,8 @@
 ### Hi there 👋
-I'm Alaa Walid Alshitany
-![IMG_20230215_175405_796](https://user-images.githubusercontent.com/71197108/222907676-f83a9c39-dd32-4e5d-b825-6b4bd59f1888.jpg)
+### I'm Alaa Walid Alshitany
 
+
+![photo1676475488](https://user-images.githubusercontent.com/71197108/223278203-ffe755ef-3fb1-46dd-9a6a-9a075520c9a6.jpeg)
 
 <!--
 **alaa-alshitany/alaa-alshitany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
