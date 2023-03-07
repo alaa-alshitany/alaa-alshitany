@@ -1,16 +1,11 @@
 ### Hi there 👋
 ### I'm Alaa Walid Alshitany
 
-![photo1676475488](https://user-images.githubusercontent.com/71197108/223278403-9891f46e-1a6b-4917-afcb-54a157b85788.jpeg)
+![photo1676475488](https://user-images.githubusercontent.com/71197108/223278747-eb9407c8-770c-42a2-8fef-0352f21a381a.jpeg)
 
-
-<!--
-**alaa-alshitany/alaa-alshitany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently a fourth year student at the Faculty of Computing and Artificial Intelligence.
+ 
+- 🌱 I’m currently learning Android Dvelopment
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
