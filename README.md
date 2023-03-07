@@ -3,6 +3,8 @@
 
 ![photo1676475488](https://user-images.githubusercontent.com/71197108/223278747-eb9407c8-770c-42a2-8fef-0352f21a381a.jpeg)
 
+[![](https://visitcount.itsvg.in/api?id=alaa-alshitany&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 - 🔭 I’m currently a fourth year student at the Faculty of Computers and Artificial Intelligence.(BFCAI)<br><br>- 🌱 I’m currently learning Android Development.<br><br>- 👯 I’m looking to collaborate on health apps development.<br><br>- 💬 Ask me about : JAVA, Kotlin, C++ , OOP, android, Design Patterns, XML
 
@@ -21,6 +23,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=alaa-alshitany&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alaa-alshitany&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
