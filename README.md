@@ -12,7 +12,8 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently a fourth year student at the Faculty of Computers and Artificial Intelligence.(BFCAI)<br><br>- 🌱 I’m currently learning Android Development.<br><br>- 👯 I’m looking to collaborate on health apps development.<br><br>- 💬 Ask me about : JAVA, Kotlin, C++ , OOP, android, Design Patterns, XML
+- 🔭 I have graduted from Faculty of Computers and Artificial Intelligence.(BFCAI)<br><br>- 🌱 I’m currently student in the 9 -Month Scholarship program Cloud Platform Development track held in ITI - smart village.<br><br>- 👯 I’m looking to do my best at this Scholarship then to be a successful DevOps Engineer.<br><br>
+//💬 Ask me about : c, Kotlin, C++ , OOP, android, Design Patterns, XML
 
 
 ## 🌐 Socials:
