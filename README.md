@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### I'm Alaa Walid Alshitany
 
-![photo1676475488](https://user-images.githubusercontent.com/71197108/223278747-eb9407c8-770c-42a2-8fef-0352f21a381a.jpeg)
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alaa-alshitany&label=Profile%20views&color=0e75b6&style=flat" alt="alaa-alshitany" />
