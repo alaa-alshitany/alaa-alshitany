@@ -11,8 +11,7 @@
 
 
 # 💫 About Me:
-- 🔭 I have graduted from Faculty of Computers and Artificial Intelligence.(BFCAI)<br><br>- 🌱 I’m currently student in the 9 -Month Scholarship program Cloud Platform Development track held in ITI - smart village.<br><br>- 👯 I’m looking to do my best at this Scholarship then to be a successful DevOps Engineer.<br><br>
-<!-- 💬 Ask me about : c, Kotlin, C++ , OOP, android, Design Patterns, XML -->
+- Recent Computer Science and Artificial Intelligence graduate with a passion for learning and development. Eager to apply my skills and knowledge in a DevOps Engineer role within a progressive company, contributing to team success and personal growth.
 
 
 ## 🌐 Socials:
